@@ -7,6 +7,7 @@ staticDir: static
 uploadDir: images
 dataDir: src/data
 pagesDir: src/pages
+
 pageLayoutKey: template
 logicFields:
   - blog_feed_section.recent_count
